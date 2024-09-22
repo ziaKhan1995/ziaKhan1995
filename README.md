@@ -1,4 +1,4 @@
-# 💫 Frontend Angular Developer / Full Stack Web Developer/NodeJS/MySQL/Java Springboot/HiberNate<br>
+# 💫 Frontend Angular Developer / Full Stack Web Developer/NodeJS/MySQL/Java Springboot/HiberNate<br> 
 
 Experienced Full Stack Developer with over 4 years of industrial hands-on expertise in building robust web applications using Angular,React.js, Node. js, Typescript, Express.js, and other frameworks. I am proficient in both backend and frontend development, adept at crafting efficient, scalable, and maintainable solutions that meet the project requirements and industry standards <br>
 
