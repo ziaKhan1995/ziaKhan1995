@@ -20,7 +20,7 @@ Frontend Angular Developer / Full Stack Web Developer/NodeJS/MySQL/Java Springbo
 ---
 [![](https://visitcount.itsvg.in/api?id=ziaKhan1995&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<pre>
 ✅ High Quality Work✅ Dedicated ✅ attention to details ✅ 24x7 Availability
 ✅ Cost-Efficient Services
 
@@ -82,5 +82,5 @@ Have a project?
 𝗧𝗲𝗹𝗹 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 𝗶𝘁
 
 Thank you for taking the time to go through my profile. Thanks for your attention.
-
+</pre>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
