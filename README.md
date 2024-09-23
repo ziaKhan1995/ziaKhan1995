@@ -28,14 +28,17 @@ Frontend Angular Developer / Full Stack Web Developer/NodeJS/MySQL/Java Springbo
 🏆50+ projects delivered
 🏆Increased 10% revenue by improving website(mobilesentrix)
 🏆Developed SaaS and custom chat apps
+</pre>
 
 If you need a dedicated developer to work on your project, look no further.
 I'm a passionate web developer with 5+ years of working experience in HTML, CSS, JavaScript, Angular, ReactJS, PHP, RESTFul APIs in Node.js or Java Springboot, and MySQL. I will develop responsive, cross-browser-compatible, pixel-perfect, functional web applications for you. I am also good at converting web design into responsive web pages with component-based HTML/JS/CSS/ Jquery/Bootstrap/Material UI.
 
 I prefer to utilize my skills in communication, project management, and leadership to prioritize needs and resolve conflicts.
 
+<pre>
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝗺𝘆 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀 𝗮𝗻𝗱 𝗾𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
-✅ Frontend: AngularJS, Angular, WordPress, ReactJS, VueJS, EmberJS, Redux, NgRX, Handlesbar, JavaScript, TypeScript, jQuery, Ajax, HTML5, CSS3, CSS pre-processors SCSS, Sass and LESS, Bootstrap, Angular Material
+✅ Frontend: AngularJS, Angular, WordPress, ReactJS, VueJS, EmberJS, Redux, NgRX, Handlesbar, JavaScript, TypeScript, jQuery, 
+  Ajax, HTML5, CSS3, CSS pre-processors SCSS, Sass and LESS, Bootstrap, Angular Material
 ✅ Backend: NodeJS, ExpressJS, Sequelize ORM, PHP, Flask, RESTful API, GraphQL APIs, Java, Springbot
 ✅ Swagger for API specifications, Rocket Chat Plugin
 ✅ Database: MongoDB, SQL, MySQL, Oracle SQL Server 2008
@@ -72,6 +75,7 @@ I prefer to utilize my skills in communication, project management, and leadersh
 ✓ Budget-friendly
 ✓ Less hassle, more work
 ✓ No timing issues
+
 
 I have a strong knowledge of the languages that make up Frameworks (JavaScript, HTML, CSS) and have worked to build web apps from scratch.
 I have strong debugging skills to find and solve any problem.
