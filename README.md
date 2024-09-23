@@ -20,4 +20,67 @@ Frontend Angular Developer / Full Stack Web Developer/NodeJS/MySQL/Java Springbo
 ---
 [![](https://visitcount.itsvg.in/api?id=ziaKhan1995&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+✅ High Quality Work✅ Dedicated ✅ attention to details ✅ 24x7 Availability
+✅ Cost-Efficient Services
+
+🏆5+ years of professional working experience
+🏆50+ projects delivered
+🏆Increased 10% revenue by improving website(mobilesentrix)
+🏆Developed SaaS and custom chat apps
+
+If you need a dedicated developer to work on your project, look no further.
+I'm a passionate web developer with 5+ years of working experience in HTML, CSS, JavaScript, Angular, ReactJS, PHP, RESTFul APIs in Node.js or Java Springboot, and MySQL. I will develop responsive, cross-browser-compatible, pixel-perfect, functional web applications for you. I am also good at converting web design into responsive web pages with component-based HTML/JS/CSS/ Jquery/Bootstrap/Material UI.
+
+I prefer to utilize my skills in communication, project management, and leadership to prioritize needs and resolve conflicts.
+
+𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝗺𝘆 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀 𝗮𝗻𝗱 𝗾𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
+✅ Frontend: AngularJS, Angular, WordPress, ReactJS, VueJS, EmberJS, Redux, NgRX, Handlesbar, JavaScript, TypeScript, jQuery, Ajax, HTML5, CSS3, CSS pre-processors SCSS, Sass and LESS, Bootstrap, Angular Material
+✅ Backend: NodeJS, ExpressJS, Sequelize ORM, PHP, Flask, RESTful API, GraphQL APIs, Java, Springbot
+✅ Swagger for API specifications, Rocket Chat Plugin
+✅ Database: MongoDB, SQL, MySQL, Oracle SQL Server 2008
+✅ Stacks: MEAN, MERN
+✅ Version Control: Git, Github, GitLab
+✅ Project management: Jira
+✅ SEO: On-Page SEO, SEO-friendly sites using WCAG, Responsiveness
+✅ 𝐎𝐭𝐡𝐞𝐫 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: PostMan, VS Code, Eclipse. Apache HTTP server
+✅ Payment Gateways: Stripe
+✅ Web servers: Apache Tomcat, Apache HTTP server
+✅Themes: Metronic
+✅ Third-party API integration.
+✅ Leadership, Management, Strong communication, Adaptive, Collaborative & Problem-solving.
+✅ Other Skills: Socket.io, Socket-client.io, Firebase
+
+𝐂𝐨𝐫𝐞 𝐜𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐢𝐞𝐬:
+
+✓ Web performance optimization
+✓ Full-stack development
+✓ Front-end development
+✓ Back-end development
+✓ SEO (on-page)
+✓ E-commerce website development
+✓ CMS management
+✓ Agile software development
+✓ UI/UX
+
+
+𝐂𝐨𝐫𝐞 𝐜𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐢𝐞𝐬:
+
+✓ Time efficient
+✓ Expert level
+✓ Result oriented
+✓ Budget-friendly
+✓ Less hassle, more work
+✓ No timing issues
+
+I have a strong knowledge of the languages that make up Frameworks (JavaScript, HTML, CSS) and have worked to build web apps from scratch.
+I have strong debugging skills to find and solve any problem.
+
+📞 Let's get connected and discuss your project.
+
+Have a project?
+𝗧𝗲𝗹𝗹 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 𝗶𝘁
+
+Thank you for taking the time to go through my profile. Thanks for your attention.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
