@@ -75,11 +75,11 @@ I prefer to utilize my skills in communication, project management, and leadersh
 ✓ Budget-friendly
 ✓ Less hassle, more work
 ✓ No timing issues
-
+</pre>
 
 I have a strong knowledge of the languages that make up Frameworks (JavaScript, HTML, CSS) and have worked to build web apps from scratch.
 I have strong debugging skills to find and solve any problem.
-
+<pre>
 📞 Let's get connected and discuss your project.
 
 Have a project?
