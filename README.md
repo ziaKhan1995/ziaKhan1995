@@ -62,6 +62,8 @@ I prefer to utilize my skills in communication, project management, and leadersh
 ✓ Agile software development
 ✓ UI/UX
 
+  ![89bq_3hq1_210802](https://github.com/user-attachments/assets/6f3ae7fd-7f66-4862-9e44-85d50cec43b3)
+
 
 𝐂𝐨𝐫𝐞 𝐜𝐨𝐦𝐩𝐞𝐭𝐞𝐧𝐜𝐢𝐞𝐬:
 
